@@ -1,0 +1,14 @@
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\bin\Debug\net8.0\CursoArrayC#.exe
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\bin\Debug\net8.0\CursoArrayC#.deps.json
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\bin\Debug\net8.0\CursoArrayC#.runtimeconfig.json
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\bin\Debug\net8.0\CursoArrayC#.dll
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\bin\Debug\net8.0\CursoArrayC#.pdb
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\obj\Debug\net8.0\CursoArrayC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\obj\Debug\net8.0\CursoArrayC#.AssemblyInfoInputs.cache
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\obj\Debug\net8.0\CursoArrayC#.AssemblyInfo.cs
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\obj\Debug\net8.0\CursoArrayC#.csproj.CoreCompileInputs.cache
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\obj\Debug\net8.0\CursoArrayC#.dll
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\obj\Debug\net8.0\refint\CursoArrayC#.dll
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\obj\Debug\net8.0\CursoArrayC#.pdb
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\obj\Debug\net8.0\CursoArrayC#.genruntimeconfig.cache
+C:\Users\goula\source\repos\CursoArrayC#\CursoArrayC#\obj\Debug\net8.0\ref\CursoArrayC#.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goula\\source\\repos\\CursoArrayC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16767C1C-B6D1-49AA-8CD6-061F44C8237F}|CursoArrayC#\\CursoArrayC#.csproj|c:\\users\\goula\\source\\repos\\cursoarrayc#\\cursoarrayc#\\aula 01\\aula1.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16767C1C-B6D1-49AA-8CD6-061F44C8237F}|CursoArrayC#\\CursoArrayC#.csproj|solutionrelative:cursoarrayc#\\aula 01\\aula1.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16767C1C-B6D1-49AA-8CD6-061F44C8237F}|CursoArrayC#\\CursoArrayC#.csproj|c:\\users\\goula\\source\\repos\\cursoarrayc#\\cursoarrayc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16767C1C-B6D1-49AA-8CD6-061F44C8237F}|CursoArrayC#\\CursoArrayC#.csproj|solutionrelative:cursoarrayc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aula1.1.cs",
+              "DocumentMoniker": "C:\\Users\\goula\\source\\repos\\CursoArrayC#\\CursoArrayC#\\Aula 01\\aula1.1.cs",
+              "RelativeDocumentMoniker": "CursoArrayC#\\Aula 01\\aula1.1.cs",
+              "ToolTip": "C:\\Users\\goula\\source\\repos\\CursoArrayC#\\CursoArrayC#\\Aula 01\\aula1.1.cs",
+              "RelativeToolTip": "CursoArrayC#\\Aula 01\\aula1.1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:26:40.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goula\\source\\repos\\CursoArrayC#\\CursoArrayC#\\Program.cs",
+              "RelativeDocumentMoniker": "CursoArrayC#\\Program.cs",
+              "ToolTip": "C:\\Users\\goula\\source\\repos\\CursoArrayC#\\CursoArrayC#\\Program.cs",
+              "RelativeToolTip": "CursoArrayC#\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:42:46.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
